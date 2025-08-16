@@ -47,7 +47,7 @@ Password security is a crucial aspect of protecting personal and organizational 
    
    - Generated password: `CeKYOOTj`
      
-     ![alt](/home/spartan/Desktop/task_6/Screenshots/8letterlow.png)
+     ![alt](Screenshots/8letterlow.png)
    
    - Tested on Kaspersky: scored weak due to low complexity.
 
@@ -63,7 +63,7 @@ Password security is a crucial aspect of protecting personal and organizational 
 
 - Generated password: `tYVP0k7x`
   
-  ![alt](/home/spartan/Desktop/task_6/Screenshots/8letterint.png)
+  ![alt](Screenshots/8letterint.png)
 
 - Kaspersky score improved but still low; feedback highlighted addition of numbers.
 
@@ -79,7 +79,7 @@ Password security is a crucial aspect of protecting personal and organizational 
 
 - Generated password: `E5}@{#BX`
   
-  ![alt](/home/spartan/Desktop/task_6/Screenshots/8letterintsym.png)
+  ![alt](Screenshots/8letterintsym.png)
 
 - Kaspersky score stronger; feedback praised inclusion of symbols for added security.
 
@@ -95,7 +95,7 @@ Password security is a crucial aspect of protecting personal and organizational 
 
 - Generated password: `d)5-XVs8vJ/|Kl@c`
   
-  ![alt](/home/spartan/Desktop/task_6/Screenshots/16letterintsym.png)
+  ![alt](Screenshots/16letterintsym.png)
 
 - Kaspersky scored very strong; feedback confirmed high security due to length and character variety.
 
